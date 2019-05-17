@@ -13,3 +13,5 @@ The 6 components that will be created are listed below:
 6.	Chosen component
 
 Download this pattern library here:
+
+https://reeceevans.github.io/patternlibrary/index.html
