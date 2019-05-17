@@ -1,10 +1,6 @@
 # Patternlibrary
 The Pattern Library of Reece Evans
 
-View Pattern Library:
-
-https://reeceevans.github.io/patternlibrary/index.html
-
 For this assignment, the task is to create a modern web-based pattern library.  The library will be built from scratch, research upon pattern libraries will be needed to understand how they are created and how they work. Within this assignment, the pattern library will consist of 6 components which will be assisted by working examples, code snippets and documentation. 
 
 The 6 components that will be created are listed below:
@@ -19,3 +15,7 @@ The 6 components that will be created are listed below:
 Download this pattern library here:
 
 https://reeceevans.github.io/patternlibrary/index.html
+
+View Documentation
+
+https://medium.com/@reeceevans6_55846/introduction-23d6dcd34a37
